@@ -4,7 +4,7 @@ Thanks for your email! It looks like you’re almost there with your application
 
 Here’s what you’ll need to do next:  
 1. Complete the **pre-work project** (details are in your application portal).  
-2. Submit your completed project by December 20, 2024 through tncvargas.com.  
+2. Submit your completed project by February 4, 2024 through (https://apply.codepath.org/members/login/?next=/prework/).  
 
 Class Schedule:  
 - Start Date: January 6, 2025   
