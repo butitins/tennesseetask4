@@ -4,11 +4,11 @@ Thanks for your email! It looks like you’re almost there with your application
 
 Here’s what you’ll need to do next:  
 1. Complete the **pre-work project** (details are in your application portal).  
-2. Submit your completed project by [insert deadline] through [insert submission method/link].  
+2. Submit your completed project by December 20, 2024 through tncvargas.com.  
 
 Class Schedule:  
-- Start Date: [insert date]  
-- Meeting Days/Times: [insert days/times]  
+- Start Date: January 6, 2025   
+- Meeting Days/Times: Mondays, 6:00 PM to 8:00 PM PST  
 
 If you have any questions about the project or submission process, please don’t hesitate to reach out. We’re here to help every step of the way!  
 
