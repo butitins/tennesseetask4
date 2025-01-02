@@ -4,7 +4,7 @@ Thanks so much for reaching out and for your interest in our Summer Interview Pr
 
 Unfortunately, the deadline for this year’s course has passed, and the class is already full. We truly wish we could accommodate everyone, but space is very limited.  
 
-To help you with your interview prep, we’d love to share our **high-level software interview guide** (http://bit.ly/41AsIOn), which includes tips and guidelines many students have found helpful. You can also explore additional resources on our website and sign up for our mailing list to stay informed about future programs or events that might benefit you.  
+To help you with your interview prep, we’d love to share our [high-level software interview guide] (http://bit.ly/41AsIOn), which includes tips and guidelines many students have found helpful. You can also explore additional resources on our website and sign up for our mailing list to stay informed about future programs or events that might benefit you.  
 
 We’re rooting for your success and hope you find these tools helpful as you move forward!  
 
